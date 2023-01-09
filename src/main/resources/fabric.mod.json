@@ -17,7 +17,7 @@
 	"entrypoints": {
 		"main": [
 			{
-				"value": "de.modprog.challenges.ExampleMod",
+				"value": "de.modprog.challenges.Main",
 				"adapter": "kotlin"
 			}
 		]

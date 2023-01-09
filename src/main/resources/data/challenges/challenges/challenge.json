@@ -1,3 +1,12 @@
 {
-    "name": "hallo"
+  "name": "hallo",
+  "rewards": [
+    {
+      "item": "minecraft:diamond_sword",
+      "nbt": "Enchantments:[{id:mending,lvl:1}]"
+    },
+    {
+      "item": "minecraft:dirt"
+    }
+  ]
 }
